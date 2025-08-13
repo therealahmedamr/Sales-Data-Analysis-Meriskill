@@ -1,4 +1,5 @@
 # Sales Data Analysis
+<img width="1286" height="726" alt="sales dashboard meriskill" src="https://github.com/user-attachments/assets/021734d4-1bcb-4520-88ec-f97ecab66684" />
 
 ## 📌 Purpose
 Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
