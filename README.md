@@ -22,6 +22,7 @@ This project demonstrates skills in:
 - Python (Pandas, NumPy)
 - Matplotlib
 - Jupyter Notebook
+- PowerBI
 
 ## 🔍 Key Findings (auto-generated examples)
 - See `visuals/` for charts like **Monthly Sales**, **Top Products by Quantity**, **Top Products by Revenue**, **Sales by City**, and **Orders by Hour**.
